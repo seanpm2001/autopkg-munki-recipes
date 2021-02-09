@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>mischosch.download.MediathekView</string>
+	<string>com.github.wesrc.download.MediathekView</string>
 	<key>Process</key>
 	<array>
 		<dict>
